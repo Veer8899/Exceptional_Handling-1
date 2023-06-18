@@ -1,0 +1,10 @@
+INFO:root:54
+INFO:root:age is vaild
+INFO:root:2001
+INFO:root:Give vaild age entered age is very vey high 
+INFO:root:201
+INFO:root:Give vaild age, entered age is very vey high 
+ERROR:Comm:No such comm target registered: jupyter.widget.control
+WARNING:Comm:No such comm: 714a735a-e09a-47ca-bb0d-3ddc3c96c095
+INFO:root:500.0
+INFO:root:Balance is available. Now, you can withdraw. 

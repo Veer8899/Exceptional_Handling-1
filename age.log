@@ -1,0 +1,9 @@
+INFO:root:age is valid
+INFO:root:print validage entered age is negative  
+INFO:root:print validage entered age is negative  
+INFO:root:print validage entered aged is very high 
+INFO:root:18
+INFO:root:age is valid
+INFO:root:18
+INFO:root:age is valid
+ERROR:root:I am handling file not found [Errno 2] No such file or directory: 'test1.txt' 
